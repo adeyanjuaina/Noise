@@ -1,0 +1,29 @@
+body{
+    background-color: mediumturquoise;
+    font-family: 'Indie Flower', cursive;
+}
+.header_div{
+    background-color: rgb(215, 143, 165);
+    color: darkgreen;
+}
+.header_div p{
+    font-size: 20px;
+    font-weight: bold;
+    color: lemonchiffon;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: limegreen;
+    color: white;
+    bottom: 0;
+    width: 100%;
+     line-height: 3;
+     font-size: 25px;
+     text-shadow: 5px 5px 5px orangered;
+}
+
+.main_div button{
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
